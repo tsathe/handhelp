@@ -11,7 +11,7 @@ p {
   line-height: 1.75; }
 
 a {
-  color: #fed136; }
+  color: #20bfdf; }
   a.active, a:active, a:focus, a:hover {
     color: #fec503; }
 
@@ -44,11 +44,11 @@ section {
     padding: 150px 0; } }
 
 ::-moz-selection {
-  background: #fed136;
+  background: #20bfdf;
   text-shadow: none; }
 
 ::selection {
-  background: #fed136;
+  background: #20bfdf;
   text-shadow: none; }
 
 img::selection {
@@ -58,7 +58,7 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #fed136; }
+  -webkit-tap-highlight-color: #20bfdf; }
 
 #mainNav {
   background-color: #222222; }
@@ -69,11 +69,11 @@ body {
     text-transform: uppercase;
     color: white;
     border: 0;
-    background-color: #fed136;
+    background-color: #20bfdf;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
   #mainNav .navbar-brand {
-    color: #fed136;
+    color: #20bfdf;
     font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: #fec503; }
@@ -86,7 +86,7 @@ body {
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-      color: #fed136; }
+      color: #20bfdf; }
 
 @media (min-width: 992px) {
   #mainNav {
@@ -115,7 +115,7 @@ body {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg-hand2.jpg");
+  background-image: url("../img/header-bg-hand3.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -144,7 +144,7 @@ header.masthead {
         body {
           /* The file size of this background image is 93% smaller
              to improve page load speed on mobile internet connections */
-          background-image: url(../img/header-bg-hand-mobile.jpg);
+          background-image: url(../img/header-bg-hand3-mobile.jpg);
         }
       }
 
@@ -344,7 +344,7 @@ header.masthead {
       color: white;
       border: 7px solid #f1f1f1;
       border-radius: 100%;
-      background-color: #fed136; }
+      background-color: #20bfdf; }
       .timeline > li .timeline-image h4 {
         font-size: 10px;
         line-height: 14px;
@@ -460,7 +460,7 @@ section#contact {
     section#contact .form-group textarea.form-control {
       height: 236px; }
   section#contact .form-control:focus {
-    border-color: #fed136;
+    border-color: #20bfdf;
     box-shadow: none; }
   section#contact ::-webkit-input-placeholder {
     font-weight: 700;
@@ -520,16 +520,16 @@ ul.social-buttons {
     outline: none;
     background-color: #222222; }
     ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-      background-color: #fed136; }
+      background-color: #20bfdf; }
 
 .text-primary {
-  color: #fed136 !important; }
+  color: #20bfdf !important; }
 
 .btn-primary {
   font-weight: 700;
   color: white;
-  border-color: #fed136;
-  background-color: #fed136;
+  border-color: #20bfdf;
+  background-color: #20bfdf;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase; }
   .btn-primary.focus, .btn-primary:focus {
@@ -559,10 +559,10 @@ ul.social-buttons {
   fieldset[disabled] .btn-primary.focus,
   fieldset[disabled] .btn-primary:focus,
   fieldset[disabled] .btn-primary:hover {
-    border-color: #fed136;
-    background-color: #fed136; }
+    border-color: #20bfdf;
+    background-color: #20bfdf; }
   .btn-primary .badge {
-    color: #fed136;
+    color: #20bfdf;
     background-color: white; }
 
 .btn-xl {
@@ -571,8 +571,8 @@ ul.social-buttons {
   padding: 20px 40px;
   border-radius: 3px;
   color: white;
-  border-color: #fed136;
-  background-color: #fed136;
+  border-color: #20bfdf;
+  background-color: #20bfdf;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase; }
   .btn-xl.focus, .btn-xl:focus {
@@ -602,10 +602,10 @@ ul.social-buttons {
   fieldset[disabled] .btn-xl.focus,
   fieldset[disabled] .btn-xl:focus,
   fieldset[disabled] .btn-xl:hover {
-    border-color: #fed136;
-    background-color: #fed136; }
+    border-color: #20bfdf;
+    background-color: #20bfdf; }
   .btn-xl .badge {
-    color: #fed136;
+    color: #20bfdf;
     background-color: white; }
 
 
