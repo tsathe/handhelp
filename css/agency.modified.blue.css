@@ -117,10 +117,7 @@ body {
         -webkit-transition: all 0.3s;
         -moz-transition: all 0.3s;
         transition: all 0.3s;
-        height: 50px;
-      }
-      #mainNav.navbar-shrink .navbar-brand .img .img-responsive {
-
+        height: auto;
       }
       }
 
