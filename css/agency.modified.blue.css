@@ -111,12 +111,12 @@ body {
       #mainNav.navbar-shrink .navbar-brand {
         font-size: 1.25em;
         padding: 12px 0;
-      }
-      #mainNav.navbar-shrink .navbar-brand .img .img-responsive {
-        width: 50px;
         -webkit-transform: scale(0.5);
         -moz-transform: scale(0.5);
         transform: all scale(0.5);
+      }
+      #mainNav.navbar-shrink .navbar-brand .img .img-responsive {
+
       }
       }
       }
