@@ -72,7 +72,8 @@ body {
     color: white;
     border: 0;
     background-color: #20bfdf;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 300;
     text-transform: uppercase; }
   #mainNav .navbar-brand {
     color: #20bfdf;
@@ -85,7 +86,8 @@ body {
     padding: 0.75em 0;
     letter-spacing: 1px;
     color: white;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 300;
     text-transform: uppercase; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
       color: #20bfdf; }
@@ -538,11 +540,11 @@ ul.social-buttons {
   color: #20bfdf !important; }
 
 .btn-primary {
-  font-weight: 700;
+  font-weight: 300;
   color: white;
   border-color: #20bfdf;
   background-color: #20bfdf;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase; }
   .btn-primary.focus, .btn-primary:focus {
     color: white;
@@ -579,13 +581,13 @@ ul.social-buttons {
 
 .btn-xl {
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 300;
   padding: 20px 40px;
   border-radius: 3px;
   color: white;
   border-color: #20bfdf;
   background-color: #20bfdf;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase; }
   .btn-xl.focus, .btn-xl:focus {
     color: white;
@@ -622,13 +624,13 @@ ul.social-buttons {
 
   .btn-xl-2 {
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 300;
     padding: 15px 25px;
     border-radius: 3px;
     color: white;
     border-color: #E91E63;
     background-color: #E91E63;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
     .btn-xl-2.focus, .btn-xl:focus {
       color: white;
