@@ -114,6 +114,10 @@ body {
       }
       #mainNav.navbar-shrink .navbar-brand .img .img-responsive {
         width: 50px;
+        -webkit-transform: scale(0.5);
+        -moz-transform: scale(0.5);
+        transform: all scale(0.5);
+      }
       }
       }
 
