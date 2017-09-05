@@ -111,9 +111,10 @@ body {
       #mainNav.navbar-shrink .navbar-brand {
         font-size: 1.25em;
         padding: 12px 0;
-        -webkit-transform: scale(0.5);
-        -moz-transform: scale(0.5);
-        transform: all scale(0.5);
+        -webkit-transform: scale(0.6);
+        -moz-transform: scale(0.6);
+        transform: all scale(0.6);
+        height: 50px;
       }
       #mainNav.navbar-shrink .navbar-brand .img .img-responsive {
 
