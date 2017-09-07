@@ -32,11 +32,17 @@ section {
   section h2.section-heading {
     font-size: 40px;
     margin-top: 0;
-    margin-bottom: 15px; }
+    margin-bottom: 15px;
+    font-weight: 300;
+    font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    section h2.dramatic {
+      font-size: 40px;
+      margin-top: 0;
+      margin-bottom: 15px; }
   section h3.section-subheading {
     font-size: 16px;
     font-weight: 300;
-    font-style: italic;
+    font-style: normal;
     margin-bottom: 75px;
     text-transform: none;
     font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
