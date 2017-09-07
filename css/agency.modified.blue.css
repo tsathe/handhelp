@@ -35,10 +35,10 @@ section {
     margin-bottom: 15px;
     font-weight: 300;
     font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
-    section h2.dramatic {
-      font-size: 40px;
-      margin-top: 0;
-      margin-bottom: 15px; }
+  section h2.dramatic {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px; }
   section h3.section-subheading {
     font-size: 16px;
     font-weight: 300;
@@ -79,7 +79,7 @@ body {
     border: 0;
     background-color: #20bfdf;
     font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-weight: 300;
+    font-weight: 700;
     text-transform: uppercase; }
   #mainNav .navbar-brand {
     color: #20bfdf;
@@ -93,7 +93,7 @@ body {
     letter-spacing: 1px;
     color: white;
     font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-weight: 300;
+    font-weight: 700;
     text-transform: uppercase; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
       color: #20bfdf; }
@@ -544,7 +544,7 @@ ul.social-buttons {
   color: #20bfdf !important; }
 
 .btn-primary {
-  font-weight: 300;
+  font-weight: 700;
   color: white;
   border-color: #20bfdf;
   background-color: #20bfdf;
@@ -585,7 +585,7 @@ ul.social-buttons {
 
 .btn-xl {
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 700;
   padding: 20px 40px;
   border-radius: 3px;
   color: white;
@@ -628,7 +628,7 @@ ul.social-buttons {
 
   .btn-xl-2 {
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 700;
     padding: 15px 25px;
     border-radius: 3px;
     color: white;
