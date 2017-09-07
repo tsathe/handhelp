@@ -79,7 +79,7 @@ body {
     border: 0;
     background-color: #20bfdf;
     font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-weight: 700;
+    font-weight: 300;
     text-transform: uppercase; }
   #mainNav .navbar-brand {
     color: #20bfdf;
@@ -93,7 +93,7 @@ body {
     letter-spacing: 1px;
     color: white;
     font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-weight: 700;
+    font-weight: 300;
     text-transform: uppercase; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
       color: #20bfdf; }
