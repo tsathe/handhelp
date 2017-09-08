@@ -122,14 +122,17 @@ body {
       #mainNav.navbar-shrink .navbar-brand {
         font-size: 20px;
         padding: 12px 0;
-        /*transform-origin: left;*/
-      }
+        /*transform-origin: left;*/  }
 
       #mainNav.navbar-shrink .navbar-brand img {
         -webkit-transform: scale(0.6);
         -moz-transform: scale(0.6);
-        transform: all scale(0.6);
-      }
+        transform: all scale(0.6);    }
+
+      #mainNav.navbar-shrink .navbar-brand .img-responsive {
+        -webkit-transform: scale(0.6);
+        -moz-transform: scale(0.6);
+        transform: all scale(0.6);    }
     }
 
 header.masthead {
