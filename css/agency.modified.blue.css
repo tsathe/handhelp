@@ -118,7 +118,7 @@ body {
       padding-top: 0;
       padding-bottom: 0;
       background-color: #222222; }
-      #mainNav.navbar-shrink .navbar-brand {
+      #mainNav.navbar-shrink .navbar-brand .img-responsive {
         font-size: 1.25em;
         padding-top: 10px;
         padding-bottom: 10px;
