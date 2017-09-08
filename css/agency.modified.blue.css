@@ -544,7 +544,7 @@ ul.social-buttons {
   color: #20bfdf !important; }
 
 .btn-primary {
-  font-weight: 700;
+  font-weight: 900;
   color: white;
   border-color: #20bfdf;
   background-color: #20bfdf;
@@ -585,7 +585,7 @@ ul.social-buttons {
 
 .btn-xl {
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 900;
   padding: 20px 40px;
   border-radius: 3px;
   color: white;
@@ -628,7 +628,7 @@ ul.social-buttons {
 
   .btn-xl-2 {
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 900;
     padding: 15px 25px;
     border-radius: 3px;
     color: white;
