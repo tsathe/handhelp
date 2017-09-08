@@ -123,10 +123,15 @@ body {
         font-size: 30px;
         padding: 12px 0;
         padding-bottom: 12px;
-        -webkit-transform: scale(0.6);
-        -moz-transform: scale(0.6);
-        transform: all scale(0.6);
-        transform-origin: top; }
+       }
+
+     #mainNav.navbar-shrink .navbar-brand>img {
+       padding: 12px 0;
+       padding-bottom: 12px;
+       -webkit-transform: scale(0.6);
+       -moz-transform: scale(0.6);
+       transform: all scale(0.6);
+      }
     }
 
 header.masthead {
