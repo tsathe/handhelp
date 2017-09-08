@@ -82,8 +82,8 @@ body {
     font-weight: 300;
     text-transform: uppercase; }
   #mainNav .navbar-brand {
-    color: #20bfdf;
-    font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive; }
+    color: #ffffff;
+    font-family: "cubano-sharp", 'Helvetica Neue', Helvetica, Arial, cursive; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: #fec503; }
   #mainNav .navbar-nav .nav-item .nav-link {
@@ -124,12 +124,10 @@ body {
         transform-origin: left;
       }
 
-      #mainNav.navbar-shrink .navbar-brand img  {
-        font-size: 20px;
+      #mainNav.navbar-shrink .navbar-brand img {
         -webkit-transform: scale(0.6);
         -moz-transform: scale(0.6);
         transform: all scale(0.6);
-      }
       }
 
 header.masthead {
