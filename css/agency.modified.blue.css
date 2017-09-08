@@ -121,13 +121,12 @@ body {
 
       #mainNav.navbar-shrink .navbar-brand {
         font-size: 30px;
-        padding: 12px 0;
+        padding: 0px 0;
         padding-bottom: 12px;
        }
 
      #mainNav.navbar-shrink .navbar-brand>img {
-       padding: 12px 0;
-       padding-bottom: 12px;
+       padding: 0px 0px 12px 0px;
        -webkit-transform: scale(0.6);
        -moz-transform: scale(0.6);
        transform: all scale(0.6);
