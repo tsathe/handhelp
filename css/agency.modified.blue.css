@@ -108,7 +108,7 @@ body {
     border: none;
     background-color: transparent; }
     #mainNav .navbar-brand {
-      font-size: 20px;
+      font-size: 0px;
       /*-webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
       transition: all 0.3s; }*/
@@ -124,6 +124,7 @@ body {
         -webkit-transform: scale(0.6);
         -moz-transform: scale(0.6);
         transform: all scale(0.6);
+        transform-origin: left;
       }
       }
 
