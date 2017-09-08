@@ -108,7 +108,7 @@ body {
     border: none;
     background-color: transparent; }
     #mainNav .navbar-brand {
-      font-size: 0em;
+      font-size: 20px;
       /*-webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
       transition: all 0.3s; }*/
@@ -116,8 +116,8 @@ body {
     #mainNav .navbar-nav .nav-item .nav-link {
       padding: 1.1em 1em !important; }
     #mainNav.navbar-shrink {
-      padding-top: 0;
-      padding-bottom: 0;
+      /*padding-top: 0;
+      padding-bottom: 0;*/
       background-color: #222222; }
       #mainNav.navbar-shrink .navbar-brand {
         font-size: 20px;
