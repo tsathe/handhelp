@@ -694,6 +694,9 @@ ul.social-buttons {
   }
 
   #impact {
+    background-image: url(../img/impact.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
     background-color: #20bfdf;
     color: #ffffff;
   }
