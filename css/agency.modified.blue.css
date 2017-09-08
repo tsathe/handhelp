@@ -681,3 +681,7 @@ ul.social-buttons {
     display: flex;
     justify-content: center;
   }
+
+  .bg-blue {
+    background-color: #20bfdf !important;
+  }
