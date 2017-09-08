@@ -120,7 +120,7 @@ body {
       background-color: #222222; }
       #mainNav.navbar-shrink .navbar-brand {
         font-size: 1.25em;
-        padding: 0 0;
+        padding: 10 0;
         -webkit-transform: scale(0.55);
         -moz-transform: scale(0.55);
         transform: all scale(0.55);
