@@ -722,4 +722,5 @@ ul.social-buttons {
     transform: translateX(-50%) translateY(-50%);
     background: url(polina.jpg) no-repeat;
     background-size: cover;
+    overflow:hidden
 }
