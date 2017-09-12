@@ -140,6 +140,7 @@ header.masthead {
   text-align: center;
   color: white;
   /*background-image: url("../img/header-bg-hand3.jpg");*/
+  background-image: none;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -708,7 +709,7 @@ ul.social-buttons {
   }
 
   #background {
-    position: fixed;
+    /*position: fixed;*/
     top: 50%;
     left: 50%;
     min-width: 100%;
