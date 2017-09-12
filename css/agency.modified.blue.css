@@ -726,3 +726,7 @@ ul.social-buttons {
     overflow: hidden;
     object-fit: cover;
 }
+
+section#video {
+  background-color: #ffffff;
+}
