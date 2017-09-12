@@ -723,4 +723,5 @@ ul.social-buttons {
     background: url(polina.jpg) no-repeat;
     background-size: cover;
     overflow: hidden;
+    object-fit: cover;
 }
