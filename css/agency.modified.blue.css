@@ -690,6 +690,12 @@ ul.social-buttons {
       display:inline-block;
   }
 
+  .hdivider.small{
+      height:5px;
+      width:auto;
+      display:inline-block;
+  }
+
 
   #wrapper {
     display: flex;
