@@ -701,9 +701,9 @@ ul.social-buttons {
   }
 
   .hdividersmall{
-      height:1px;
+      height:5px;
       width:auto;
-      display:inline-block;
+      display:inline;
   }
 
 
