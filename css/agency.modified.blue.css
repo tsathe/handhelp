@@ -726,3 +726,15 @@ ul.social-buttons {
     overflow: hidden;
     object-fit: cover;
 }
+
+#about {
+  background-color: white;
+}
+
+#video {
+  background-color: white;
+}
+
+#info {
+  background-color: white;
+}
