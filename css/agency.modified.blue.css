@@ -755,6 +755,7 @@ ul.social-buttons {
   background-color: white;
 }
 
-.btn-danger {
+#mainNav .btn-danger {
   font-size: 14px;
+  padding-bottom: 0px;
 }
