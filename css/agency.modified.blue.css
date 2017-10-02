@@ -15,7 +15,7 @@ p {
 a {
   color: #20bfdf; }
   a.active, a:active, a:focus, a:hover {
-    color: #fec503; }
+    color: #20bfdf; }
 
 h1,
 h2,
@@ -85,7 +85,7 @@ body {
     color: #ffffff;
     font-family: "cubano-sharp", 'Helvetica Neue', Helvetica, Arial, cursive; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-      color: #fec503; }
+      color: #20bfdf; }
   #mainNav .navbar-nav .nav-item .nav-link {
     font-size: 90%;
     font-weight: 400;
@@ -776,7 +776,7 @@ ul.social-buttons {
     color: #ffffff;
     font-family: "cubano-sharp", 'Helvetica Neue', Helvetica, Arial, cursive; }
     #altNav .navbar-brand.active, #altNav .navbar-brand:active, #altNav .navbar-brand:focus, #altNav .navbar-brand:hover {
-      color: #fec503; }
+      color: #20bfdf; }
   #altNav .navbar-nav .nav-item .nav-link {
     font-size: 90%;
     font-weight: 400;
