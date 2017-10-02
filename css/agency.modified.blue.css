@@ -758,3 +758,33 @@ ul.social-buttons {
 #mainNav .btn-danger {
   font-size: 14px;
 }
+
+#altNav {
+  background-color: #222222; }
+  #altNav .navbar-toggler {
+    font-size: 12px;
+    right: 0;
+    padding: 13px;
+    text-transform: uppercase;
+    color: white;
+    border: 0;
+    background-color: #20bfdf;
+    font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    text-transform: uppercase; }
+  #altNav .navbar-brand {
+    color: #ffffff;
+    font-family: "cubano-sharp", 'Helvetica Neue', Helvetica, Arial, cursive; }
+    #altNav .navbar-brand.active, #altNav .navbar-brand:active, #altNav .navbar-brand:focus, #altNav .navbar-brand:hover {
+      color: #fec503; }
+  #altNav .navbar-nav .nav-item .nav-link {
+    font-size: 90%;
+    font-weight: 400;
+    padding: 0.75em 0;
+    letter-spacing: 1px;
+    color: white;
+    font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    text-transform: uppercase; }
+    #altNav .navbar-nav .nav-item .nav-link.active, #altNav .navbar-nav .nav-item .nav-link:hover {
+      color: #20bfdf; }
