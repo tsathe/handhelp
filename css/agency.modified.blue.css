@@ -73,7 +73,7 @@ body {
   #mainNav .navbar-toggler {
     font-size: 12px;
     right: 0;
-    padding: 0px;
+    padding: 13px;
     text-transform: uppercase;
     color: white;
     border: 0;
@@ -98,7 +98,7 @@ body {
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
       color: #20bfdf; }
 
-    #mainNav.navbar-shrink .navbar-brand>img {
+    #mainNav .navbar-brand>img {
       padding: 0px 0px 0px 0px;
       -webkit-transform: scale(0.5);
       -moz-transform: scale(0.5);
