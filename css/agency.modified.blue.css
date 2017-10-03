@@ -105,6 +105,10 @@ body {
       transform: all scale(0.5);
      }
 
+     #mainNav .navbar-brand {
+       font-size: 30px;
+      }
+
      #mainNav  {
        padding: 0px 0px 0px 0px;
       }
