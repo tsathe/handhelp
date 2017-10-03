@@ -785,6 +785,7 @@ ul.social-buttons {
     font-weight: 300;
     text-transform: uppercase; }
   #altNav .navbar-brand {
+    font-size: 30px;
     color: #ffffff;
     font-family: "cubano-sharp", 'Helvetica Neue', Helvetica, Arial, cursive; }
     #altNav .navbar-brand.active, #altNav .navbar-brand:active, #altNav .navbar-brand:focus, #altNav .navbar-brand:hover {
