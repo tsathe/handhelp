@@ -135,7 +135,7 @@ body {
         padding: 0px 0;
         padding-bottom: 0px;
        }
-
+/*
      #mainNav.navbar-shrink .navbar-brand>img {
        padding: 0px 0px 0px 0px;
        -webkit-transform: scale(0.5);
@@ -144,7 +144,7 @@ body {
        -webkit-transition: all 0.3s;
        -moz-transition: all 0.3s;
        transition: all 0.3s;
-      }
+      }*/
     }
 
 header.masthead {
