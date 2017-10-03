@@ -73,7 +73,7 @@ body {
   #mainNav .navbar-toggler {
     font-size: 12px;
     right: 0;
-    padding: 13px;
+    padding: 0px;
     text-transform: uppercase;
     color: white;
     border: 0;
@@ -83,9 +83,6 @@ body {
     text-transform: uppercase; }
   #mainNav .navbar-brand {
     color: #ffffff;
-    -webkit-transform: scale(0.5);
-    -moz-transform: scale(0.5);
-    transform: all scale(0.5);
     font-family: "cubano-sharp", 'Helvetica Neue', Helvetica, Arial, cursive; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: #20bfdf; }
@@ -101,24 +98,11 @@ body {
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
       color: #20bfdf; }
 
-      #mainNav.navbar-shrink .navbar-brand>img {
-        padding: 0px 0px 0px 0px;
-        -webkit-transform: scale(0.5);
-        -moz-transform: scale(0.5);
-        transform: all scale(0.5);
-        -webkit-transition: all 0.3s;
-        -moz-transition: all 0.3s;
-        transition: all 0.3s;
-       }
-
     #mainNav.navbar-shrink .navbar-brand>img {
       padding: 0px 0px 0px 0px;
       -webkit-transform: scale(0.5);
       -moz-transform: scale(0.5);
       transform: all scale(0.5);
-      -webkit-transition: all 0.3s;
-      -moz-transition: all 0.3s;
-      transition: all 0.3s;
      }
 
 @media (min-width: 992px) {
