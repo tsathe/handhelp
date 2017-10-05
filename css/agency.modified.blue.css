@@ -83,6 +83,7 @@ body {
     text-transform: uppercase; }
   #mainNav .navbar-brand {
     color: #ffffff;
+    font-weight: 600;
     font-family: 'Helvetica Neue', Helvetica, Arial, cursive; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: #20bfdf; }
@@ -119,7 +120,7 @@ body {
     border: none;
     background-color: transparent; }
     #mainNav .navbar-brand {
-      font-size: 0px;
+      font-size: 30px;
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
       transition: all 0.3s; }
@@ -779,6 +780,7 @@ ul.social-buttons {
     text-transform: uppercase; }
   #altNav .navbar-brand {
     font-size: 30px;
+    font-weight: 600;
     color: #ffffff;
     font-family: 'Helvetica Neue', Helvetica, Arial, cursive; }
     #altNav .navbar-brand.active, #altNav .navbar-brand:active, #altNav .navbar-brand:focus, #altNav .navbar-brand:hover {
