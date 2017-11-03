@@ -693,7 +693,6 @@ ul.social-buttons {
       color: #E91E63;
       background-color: white; }
 
-
   .divider{
       width:15px;
       height:auto;
@@ -711,7 +710,6 @@ ul.social-buttons {
       width:auto;
       display:inline;
   }
-
 
   #wrapper {
     display: flex;
