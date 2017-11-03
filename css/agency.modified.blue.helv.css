@@ -157,8 +157,7 @@ body {
 header.masthead {
   text-align: center;
   color: white;
-  /*background-image: url("../img/header-bg-hand3.jpg");*/
-  background-image: none;
+  background-image: url("../img/header-bg-hand3.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -166,7 +165,6 @@ header.masthead {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  overflow: hidden; }
   header.masthead .intro-text {
     padding-top: 150px;
     padding-bottom: 100px; }
@@ -732,24 +730,6 @@ ul.social-buttons {
     background-color: #20bfdf;
     color: #ffffff;
   }
-
-  #background {
-    /*position: fixed;*/
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    z-index: -100;
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
-    background: url(polina.jpg) no-repeat;
-    background-size: cover;
-    overflow: hidden;
-    object-fit: cover;
-}
 
 #about {
   background-color: white;
