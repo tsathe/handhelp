@@ -195,10 +195,10 @@ header.masthead {
     padding-bottom: 200px; }
     header.masthead .intro-text .intro-lead-in {
       font-size: 40px;
-      font-weight: 400;
+      font-weight: 900;
       /*font-style: italic;*/
       font-style: normal;
-      line-height: 40px;
+      line-height: 24px;
       margin-bottom: 25px;
       font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     header.masthead .intro-text .intro-heading {
