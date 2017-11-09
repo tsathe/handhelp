@@ -33,8 +33,14 @@
     <script>try{Typekit.load({ async: true });}catch(e){}</script> -->
 
     <!-- Script for Modal on Page Load -->
+    $(window).load(function(){
+   $('#myModal').modal('show');
+    });
+
+
     <script type="text/javascript">
-    $(document).ready(function(){
+    $(window).load(function(){
+    // $(document).ready(function(){
         $("#barcrawlModal").modal('show');
     });
     </script>
