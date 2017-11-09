@@ -342,8 +342,12 @@ header.masthead {
   .alt-modal .modal-dialog {
     max-width: 50%;
     height: 50%;
-    margin: 0;
-    vertical-align: middle;
+      -webkit-transform: translate(0,-50%);
+       -o-transform: translate(0,-50%);
+       transform: translate(0,-50%);
+       top: 50%;
+       margin: 0 auto;
+
   }
 
   .alt-modal .modal-content {
