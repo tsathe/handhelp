@@ -739,12 +739,20 @@ ul.social-buttons {
   background-color: #222222;
 }
 
+#video {
+  background-color: #222222;
+}
+
 #info {
   background-color: white;
 }
 
 #thanks {
   background-color: white;
+}
+
+#links {
+  background-color: #efefef;
 }
 
 #mainNav .btn-danger {
