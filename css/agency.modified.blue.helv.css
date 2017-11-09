@@ -783,7 +783,7 @@ ul.social-buttons {
     #altNav .navbar-nav .nav-item .nav-link.active, #altNav .navbar-nav .nav-item .nav-link:hover {
       color: #20bfdf; }
 
-  #altNav.navbar-shrink .navbar-brand>img {
+  /*#altNav.navbar-shrink .navbar-brand>img {
     padding: 0px 0px 0px 0px;
     -webkit-transform: scale(0.6);
     -moz-transform: scale(0.6);
@@ -791,4 +791,4 @@ ul.social-buttons {
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
-   }
+   }*/
