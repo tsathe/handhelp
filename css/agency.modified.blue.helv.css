@@ -343,9 +343,13 @@ header.masthead {
     max-width: 50%;
     height: 50%;
     margin: 0;
-    position: absolute;
-    float: left;
-    transform: translate(-50%, -50%);
+    position: fixed;
+     top: 50%;
+     left: 50%;
+     right: auto;
+     bottom: auto;
+     transform: translate(-50%, -50%);
+     z-index: 990;
   }
 
   .alt-modal .modal-content {
